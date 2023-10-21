@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "市场三部曲!"
+title:  "交易三部曲概述"
 date:   2023-10-21 15:15:28 +0800
 categories: post
 ---
