@@ -2,7 +2,7 @@
 layout: post
 title:  "市场三部曲!"
 date:   2023-10-21 15:15:28 +0800
-categories: jekyll update
+categories: post
 ---
 1.分类
 2.德州扑克的思考
