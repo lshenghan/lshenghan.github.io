@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "区间套原理!"
+title:  "区间套原理"
 date:   2023-09-27 15:15:28 +0800
 categories: post
 ---
