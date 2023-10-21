@@ -4,20 +4,12 @@ title:  "市场三部曲!"
 date:   2023-10-21 15:15:28 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+1. 分类
+2.德州扑克的思考
+3.区间套原理
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+分类，更确切地说是顶层分类，解决了看市场宏观结构的问题。同样分类思想可以层层往下细分。
 
-Jekyll also offers powerful support for code snippets:
+德州扑克的思考，告诉我们，投资市场正和奇的问题。绝大多数时间里，都是守正的。但是极少的机遇，一定要把握奇。正所谓： 凡战者，以正合，以奇胜。 市场中，大多数时间，都是按部就班的赚钱，但是有个别时机，赚钱效应极其的高。那中情况就不能用日常的操作来对待。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
+区间套原理，是操作的根基。用则必胜，废则必败。无论是正，还是奇，根基都是区间套原理。
