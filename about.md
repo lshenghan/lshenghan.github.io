@@ -4,8 +4,6 @@ title: 关于
 permalink: /about/
 ---
 
-
-
   文，纹也。
 
   章，显也。
