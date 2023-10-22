@@ -12,7 +12,7 @@ permalink: /about/
 
   文章者，纹显也。
 
-  阅其文，是为识其人。
+  阅其文，是为见其人。
 
 You can find the source code at GitHub:
 [github][github-org] /
