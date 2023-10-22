@@ -14,7 +14,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 务实 求是
+title: 探索 发现 思考
 email: 165440770@qq.com
 description: >- # this means to ignore newlines until "baseurl:"
   伟大的成就，源于日复一日的、平凡且微小的进步。― 孙子, 孙子兵法
