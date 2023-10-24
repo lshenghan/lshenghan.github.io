@@ -4,13 +4,10 @@ title: 关于
 permalink: /about/
 ---
 
-  文，纹也。
+  愿作一颗星，
 
-  章，显也。
+  点亮一隅夜空。
 
-  文章者，纹显也。
-
-  阅其文，是为见其人。
 
 You can find the source code at GitHub:
 [github][github-org] /
