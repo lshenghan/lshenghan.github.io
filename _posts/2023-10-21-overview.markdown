@@ -9,9 +9,7 @@ categories: post
 
 &#8195;&#8195;行情、对策、买卖，在实践中是三位一体的，是一个整体。为了便于讨论，才分成三个方面。只单纯看行情，不去思考对策，不去实践，永远是停留在表面。同样，只一味买卖，而不静心去观察行情，不去独立思考，永远是棵韭菜。
 
-深证证券交易所（http://www.szse.cn/）下的投资者教育网站（https://investor.szse.cn/）
-
-投资者入市手册（https://investor.szse.cn/institute/bookshelf/manualseriesbook/index.html）
+&#8195;&#8195;虽然本系列文章说的都是很基础的东西，但没有接触过股市的小伙伴，还是要准备一点入门的学习。给小伙伴推荐一份不错的资料：[深证证券交易所](http://www.szse.cn/)官网的[投资者教育](https://investor.szse.cn/)板块下，电子书[投资者入市手册](https://investor.szse.cn/institute/bookshelf/manualseriesbook/index.html)是不错的入门选择。这份资料，我是读过的，通俗易懂，简明扼要且免费。
 
 
 ###  行情
