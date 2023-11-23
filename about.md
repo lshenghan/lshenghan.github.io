@@ -4,9 +4,9 @@ title: 关于
 permalink: /about/
 ---
 
-  愿作一颗星，
+  一只，
 
-  点亮一隅夜空。
+  丑小鸭。
 
 
 You can find the source code at GitHub:
