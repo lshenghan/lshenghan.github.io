@@ -11,8 +11,7 @@ categories: jekyll update
 
 　　解释：
 
-		困难的事，不排斥，因为它会让你更强大。
-		简单的题，不轻心，因为它会教你以谨慎。
+		困难的事，不排斥，因为它会让你更强大。简单的题，不轻心，因为它会教你以谨慎。
 		[态度]
 
 * I can explain it to you, but I can't understand it for you.
