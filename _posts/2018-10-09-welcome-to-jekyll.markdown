@@ -11,22 +11,19 @@ categories: jekyll update
 
 &emsp;&emsp;解释：
 
-&emsp;&emsp;&emsp;&emsp;困难的事，不排斥，因为它会让你更强大。简单的题，不轻心，因为它会教你以谨慎。
-		[态度]
+&emsp;&emsp;&emsp;&emsp;困难的事，不排斥，因为它会让你更强大。简单的题，不轻心，因为它会教你以谨慎。[***态度***]
 
 * I can explain it to you, but I can't understand it for you.
 
 &emsp;&emsp;解释：
 
-&emsp;&emsp;&emsp;&emsp;他人仅仅提供一个方向或者些许经验，作为生活、学习的指导。路是自己一步一个脚印完成的。
-		[理论与实践的关系]
+&emsp;&emsp;&emsp;&emsp;他人仅仅提供一个方向或者些许经验，作为生活、学习的指导。路是自己一步一个脚印完成的。[***理论与实践的关系***]
 
 * 合抱之木，生于毫末；九层之台，起于垒土；千里之行，始于足下。
 
 &emsp;&emsp;解释：
 
-&emsp;&emsp;&emsp;&emsp;无论谁，取得多么高的成就，均源于，每一个平凡日子里的勤劳与坚持。
-		[积累]
+&emsp;&emsp;&emsp;&emsp;无论谁，取得多么高的成就，均源于，每一个平凡日子里的勤劳与坚持。[***积累***]
 
 ————————————————————————
 
